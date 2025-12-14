@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Blog Template
 
 I provide you with a ready-to-use set of code snippets and utilities. This blog template consists of 7 different page variations, such as: homepage, user, post details, and several other pages. A preview of this great blog template is available here: [Screenshots](screenshot/)
@@ -29,3 +30,6 @@ I provide you with a ready-to-use set of code snippets and utilities. This blog 
 [instagram]: https://www.instagram.com/mr.danang_haris
 [linkedin]: https://www.linkedin.com/in/danang-haris-setiawan-darisset
 [webdevplaylist]: https://github.com/danangharissetiawan/danangharissetiawan
+=======
+# alpha-schools-website
+>>>>>>> 226fc20f7fcf540ddb8fda8983f31edf39f80139

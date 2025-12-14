@@ -1,4 +1,19 @@
+ HEAD
 .DS_Store
 .vscode/
 Thumbs.db
 node_modules/
+*.tar
+*.tar.*
+*.jar
+*.exe
+*.msi
+*.deb
+*.zip
+*.tgz
+*.log
+*.log.*
+*.sig
+pkg/
+src/
+226fc20f7fcf540ddb8fda8983f31edf39f80139
